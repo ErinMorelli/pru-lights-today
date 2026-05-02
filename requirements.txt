@@ -1,1 +1,3 @@
-git+https://github.com/ErinMorelli/pru-lights.git
+beautifulsoup4>=4.12
+requests>=2.31
+python-dateutil>=2.9

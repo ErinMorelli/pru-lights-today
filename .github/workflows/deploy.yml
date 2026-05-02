@@ -17,11 +17,18 @@ jobs:
         with:
           ref: main
 
+      - name: Checkout pru-lights
+        uses: actions/checkout@v4
+        with:
+          repository: ErinMorelli/pru-lights
+          path: pru-lights
+          token: ${{ secrets.GH_PAT }}
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - run: pip install -r requirements.txt
+      - run: pip install -r requirements.txt && pip install ./pru-lights
 
       - run: python scripts/generate_data.py data.json
 
@@ -30,6 +37,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
           publish_branch: gh-pages
-          exclude_assets: '.github,scripts,requirements.txt,README.md,.gitignore'
+          exclude_assets: '.github,scripts,pru-lights,requirements.txt,README.md,.gitignore'
           keep_files: false
           cname: prudentialcenterlights.today
