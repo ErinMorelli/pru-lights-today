@@ -1,4 +1,33 @@
 (async () => {
+  const applyColors = (colors) => {
+    if (!colors?.length) return;
+
+    const valid = colors.filter((c) => {
+      const el = document.createElement('div');
+      el.style.backgroundColor = c;
+      return el.style.backgroundColor !== '';
+    });
+
+    if (!valid.length) return;
+
+    const positions =
+      valid.length === 1
+        ? ['50% 50%']
+        : valid.length === 2
+        ? ['30% 50%', '70% 50%']
+        : ['20% 50%', '50% 50%', '80% 50%'];
+
+    const size = valid.length === 1 ? '100% 80%' : '70% 80%';
+
+    document.body.style.backgroundImage = valid
+      .slice(0, 3)
+      .map(
+        (c, i) =>
+          `radial-gradient(ellipse ${size} at ${positions[i]}, color-mix(in srgb, ${c} 25%, transparent) 0%, transparent 70%)`
+      )
+      .join(', ');
+  };
+
   const show = (id) => {
     document.querySelectorAll('.state').forEach((el) => (el.hidden = true));
     document.getElementById(id).hidden = false;
@@ -33,6 +62,7 @@
         `${fmtDate(data.event.start)} – ${fmtDate(data.event.end)}`;
       document.title = `${data.event.purpose} | Prudential Center Lights Tonight`;
       show('event');
+      applyColors(data.colors);
     } else {
       show('no-event');
     }
