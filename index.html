@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prudential Center Lights Tonight</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <div id="loading" class="state">
+      <p class="dim">Loading&hellip;</p>
+    </div>
+
+    <section id="event" class="state" hidden>
+      <p class="label">TONIGHT THE PRU LIGHTS UP FOR</p>
+      <p id="event-purpose" class="purpose"></p>
+      <p id="event-date" class="date-range"></p>
+    </section>
+
+    <section id="no-event" class="state" hidden>
+      <p class="dim">NO LIGHTING EVENT TONIGHT</p>
+    </section>
+
+    <section id="error" class="state" hidden>
+      <p class="dim">UNABLE TO LOAD DATA</p>
+    </section>
+  </main>
+
+  <footer>
+    <p id="generated-at" class="meta"></p>
+    <p class="meta">Data from <a href="https://www.prudentialcenter.com/experiences/events/">prudentialcenter.com</a></p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
