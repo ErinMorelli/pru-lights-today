@@ -31,6 +31,7 @@
       document.getElementById('event-purpose').textContent = data.event.purpose;
       document.getElementById('event-date').textContent =
         `${fmtDate(data.event.start)} – ${fmtDate(data.event.end)}`;
+      document.title = `${data.event.purpose} | Prudential Center Lights Tonight`;
       show('event');
     } else {
       show('no-event');
