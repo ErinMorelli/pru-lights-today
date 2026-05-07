@@ -1,13 +1,6 @@
 {
-  "generated_at": "2026-05-07T10:25:30.950439-04:00",
-  "has_event": true,
-  "event": {
-    "start": "2026-05-06T12:00:00-04:00",
-    "end": "2026-05-07T12:00:00-04:00",
-    "purpose": "Blue & Purple in support of Credit Union Kids at Heart"
-  },
-  "colors": [
-    "blue",
-    "purple"
-  ]
+  "generated_at": "2026-05-07T15:46:58.713836-04:00",
+  "has_event": false,
+  "event": null,
+  "colors": []
 }
