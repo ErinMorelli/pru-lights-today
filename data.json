@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-05-10T11:55:18.466190-04:00",
-  "has_event": true,
-  "event": {
-    "start": "2026-05-09T12:00:00-04:00",
-    "end": "2026-05-10T12:00:00-04:00",
-    "purpose": "Green for Mental Health Awareness Month"
-  },
-  "colors": [
-    "green"
-  ]
+  "generated_at": "2026-05-10T15:05:29.891316-04:00",
+  "has_event": false,
+  "event": null,
+  "colors": []
 }
