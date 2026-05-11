@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-11T10:53:37.319547-04:00",
-  "has_event": false,
-  "event": null,
-  "colors": []
+  "generated_at": "2026-05-11T13:25:24.346817-04:00",
+  "has_event": true,
+  "event": {
+    "start": "2026-05-11T12:00:00-04:00",
+    "end": "2026-05-12T12:00:00-04:00",
+    "purpose": "Teal for Asthma and Allergy Foundation of America, New England Chapter (AAFA New England)"
+  },
+  "colors": [
+    "teal"
+  ]
 }
