@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-06-02T06:24:16.318634-04:00",
-  "has_event": true,
-  "event": {
-    "start": "2026-06-01T12:00:00-04:00",
-    "end": "2026-06-02T12:00:00-04:00",
-    "purpose": "Rainbow for LQBTQ Pride Month"
-  },
-  "colors": [
-    "rainbow"
-  ]
+  "generated_at": "2026-06-02T12:26:03.182280-04:00",
+  "has_event": false,
+  "event": null,
+  "colors": []
 }
