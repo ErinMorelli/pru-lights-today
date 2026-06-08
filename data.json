@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-06-08T11:53:44.764138-04:00",
-  "has_event": true,
-  "event": {
-    "start": "2026-06-07T12:00:00-04:00",
-    "end": "2026-06-08T12:00:00-04:00",
-    "purpose": "Green for National Scoliosis Foundation"
-  },
-  "colors": [
-    "green"
-  ]
+  "generated_at": "2026-06-08T16:17:21.781409-04:00",
+  "has_event": false,
+  "event": null,
+  "colors": []
 }
