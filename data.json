@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-06-14T10:03:21.634155-04:00",
+  "generated_at": "2026-06-14T12:22:08.555241-04:00",
   "has_event": true,
   "event": {
-    "start": "2026-06-13T12:00:00-04:00",
-    "end": "2026-06-14T12:00:00-04:00",
-    "purpose": "Green & Blue in Celebration of First FIFA World Cup Game"
+    "start": "2026-06-14T12:00:00-04:00",
+    "end": "2026-06-15T12:00:00-04:00",
+    "purpose": "Red for Kraft Family Blood Donor Center at BWH & DFCI/World Blood Donor Day"
   },
   "colors": [
-    "green",
-    "blue"
+    "red"
   ]
 }
