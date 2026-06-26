@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-06-26T10:25:22.275308-04:00",
-  "has_event": true,
-  "event": {
-    "start": "2026-06-25T12:00:00-04:00",
-    "end": "2026-06-26T12:00:00-04:00",
-    "purpose": "Purple in Support of VITFriends Vitiligo Support Group"
-  },
-  "colors": [
-    "purple"
-  ]
+  "generated_at": "2026-06-26T13:00:32.944238-04:00",
+  "has_event": false,
+  "event": null,
+  "colors": []
 }
