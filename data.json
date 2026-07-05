@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-07-05T09:39:23.298864-04:00",
-  "has_event": true,
-  "event": {
-    "start": "2026-07-04T12:00:00-04:00",
-    "end": "2026-07-05T12:00:00-04:00",
-    "purpose": "Red, White & Blue in Recognition of Independence Day/ Miles for Military"
-  },
-  "colors": [
-    "red",
-    "white",
-    "blue"
-  ]
+  "generated_at": "2026-07-05T12:09:04.156615-04:00",
+  "has_event": false,
+  "event": null,
+  "colors": []
 }
