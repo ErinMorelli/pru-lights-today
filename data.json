@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-08-05T10:08:18.287657-04:00",
-  "has_event": false,
-  "event": null,
-  "colors": []
+  "generated_at": "2026-08-05T12:41:57.409127-04:00",
+  "has_event": true,
+  "event": {
+    "start": "2026-08-05T12:00:00-04:00",
+    "end": "2026-08-06T12:00:00-04:00",
+    "purpose": "Purple & Gold for the Northborough Arts Council"
+  },
+  "colors": [
+    "purple",
+    "gold"
+  ]
 }
