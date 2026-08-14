@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-08-14T11:51:31.880269-04:00",
-  "has_event": false,
-  "event": null,
-  "colors": []
+  "generated_at": "2026-08-14T14:53:24.194655-04:00",
+  "has_event": true,
+  "event": {
+    "start": "2026-08-14T12:00:00-04:00",
+    "end": "2026-08-15T12:00:00-04:00",
+    "purpose": "Orange, White & Green for the Foundation of Indian Americans ( FIA) New England"
+  },
+  "colors": [
+    "orange",
+    "white",
+    "green"
+  ]
 }
