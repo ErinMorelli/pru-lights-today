@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-09-08T06:42:21.326612-04:00",
+  "generated_at": "2026-09-08T12:06:07.790870-04:00",
   "has_event": true,
   "event": {
-    "start": "2026-09-07T12:00:00-04:00",
-    "end": "2026-09-08T12:00:00-04:00",
-    "purpose": "Red, White & Blue for Labor Day"
+    "start": "2026-09-08T12:00:00-04:00",
+    "end": "2026-09-09T12:00:00-04:00",
+    "purpose": "Purple & Teal for Samaritans, Inc."
   },
   "colors": [
-    "red",
-    "white",
-    "blue"
+    "purple",
+    "teal"
   ]
 }
