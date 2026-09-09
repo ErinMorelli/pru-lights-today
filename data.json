@@ -1,13 +1,6 @@
 {
-  "generated_at": "2026-09-09T06:51:01.745698-04:00",
-  "has_event": true,
-  "event": {
-    "start": "2026-09-08T12:00:00-04:00",
-    "end": "2026-09-09T12:00:00-04:00",
-    "purpose": "Purple & Teal for Samaritans, Inc."
-  },
-  "colors": [
-    "purple",
-    "teal"
-  ]
+  "generated_at": "2026-09-09T12:00:56.287014-04:00",
+  "has_event": false,
+  "event": null,
+  "colors": []
 }
