@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-09-11T11:57:53.463714-04:00",
-  "has_event": false,
-  "event": null,
-  "colors": []
+  "generated_at": "2026-09-11T16:32:59.431605-04:00",
+  "has_event": true,
+  "event": {
+    "start": "2026-09-11T12:00:00-04:00",
+    "end": "2026-09-12T12:00:00-04:00",
+    "purpose": "Blue- 9/11 Memorial & Museum “Tribute in Light”"
+  },
+  "colors": [
+    "blue- 9/11 memorial",
+    "museum “tribute in light”"
+  ]
 }
