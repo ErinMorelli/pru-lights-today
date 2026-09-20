@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-09-20T11:33:02.347846-04:00",
-  "has_event": false,
-  "event": null,
-  "colors": []
+  "generated_at": "2026-09-20T16:24:31.173448-04:00",
+  "has_event": true,
+  "event": {
+    "start": "2026-09-20T12:00:00-04:00",
+    "end": "2026-09-21T12:00:00-04:00",
+    "purpose": "Red, Silver & Blue in Celebration of New England Patriots Opening Home Game"
+  },
+  "colors": [
+    "red",
+    "silver",
+    "blue"
+  ]
 }
