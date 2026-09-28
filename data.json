@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-28T09:04:02.183485-04:00",
-  "has_event": false,
-  "event": null,
-  "colors": []
+  "generated_at": "2026-09-28T17:05:15.649066-04:00",
+  "has_event": true,
+  "event": {
+    "start": "2026-09-28T12:00:00-04:00",
+    "end": "2026-09-29T12:00:00-04:00",
+    "purpose": "Orange for the Greater Boston Food Bank"
+  },
+  "colors": [
+    "orange"
+  ]
 }
