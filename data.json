@@ -1,12 +1,14 @@
 {
-  "generated_at": "2026-09-29T08:14:25.803101-04:00",
+  "generated_at": "2026-09-29T15:48:08.174556-04:00",
   "has_event": true,
   "event": {
-    "start": "2026-09-28T12:00:00-04:00",
-    "end": "2026-09-29T12:00:00-04:00",
-    "purpose": "Orange for the Greater Boston Food Bank"
+    "start": "2026-09-29T12:00:00-04:00",
+    "end": "2026-09-30T12:00:00-04:00",
+    "purpose": "Black, Gold & White for the Bruins Opening Home Game 2026"
   },
   "colors": [
-    "orange"
+    "black",
+    "gold",
+    "white"
   ]
 }
