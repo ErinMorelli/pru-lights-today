@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-09-30T05:22:12.285904-04:00",
-  "has_event": true,
-  "event": {
-    "start": "2026-09-29T12:00:00-04:00",
-    "end": "2026-09-30T12:00:00-04:00",
-    "purpose": "Black, Gold & White for the Bruins Opening Home Game 2026"
-  },
-  "colors": [
-    "black",
-    "gold",
-    "white"
-  ]
+  "generated_at": "2026-09-30T13:41:01.768996-04:00",
+  "has_event": false,
+  "event": null,
+  "colors": []
 }
