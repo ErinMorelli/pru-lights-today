@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-01T08:33:10.998889-04:00",
-  "has_event": false,
-  "event": null,
-  "colors": []
+  "generated_at": "2026-10-01T16:09:27.416567-04:00",
+  "has_event": true,
+  "event": {
+    "start": "2026-10-01T12:00:00-04:00",
+    "end": "2026-10-02T12:00:00-04:00",
+    "purpose": "Pink for the Ellie Fund"
+  },
+  "colors": [
+    "pink"
+  ]
 }
