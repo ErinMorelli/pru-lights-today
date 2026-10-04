@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-10-04T07:51:40.185697-04:00",
-  "has_event": false,
-  "event": null,
-  "colors": []
+  "generated_at": "2026-10-04T12:31:17.916224-04:00",
+  "has_event": true,
+  "event": {
+    "start": "2026-10-04T12:00:00-04:00",
+    "end": "2026-10-05T12:00:00-04:00",
+    "purpose": "Blue & Orange in support of the Jimmy Fund Walk for Dana-Farber"
+  },
+  "colors": [
+    "blue",
+    "orange"
+  ]
 }
