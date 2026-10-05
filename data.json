@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-05T09:46:21.429488-04:00",
+  "generated_at": "2026-10-05T17:50:38.862077-04:00",
   "has_event": true,
   "event": {
-    "start": "2026-10-04T12:00:00-04:00",
-    "end": "2026-10-05T12:00:00-04:00",
-    "purpose": "Blue & Orange in support of the Jimmy Fund Walk for Dana-Farber"
+    "start": "2026-10-05T12:00:00-04:00",
+    "end": "2026-10-06T12:00:00-04:00",
+    "purpose": "Blue & Green for Food Allergy Science Initiative"
   },
   "colors": [
     "blue",
-    "orange"
+    "green"
   ]
 }
