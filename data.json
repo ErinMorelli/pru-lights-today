@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-10-13T06:09:31.738553-04:00",
-  "has_event": true,
-  "event": {
-    "start": "2026-10-12T12:00:00-04:00",
-    "end": "2026-10-13T12:00:00-04:00",
-    "purpose": "Red, White & Green for Indigenous Peoples’ Day"
-  },
-  "colors": [
-    "red",
-    "white",
-    "green"
-  ]
+  "generated_at": "2026-10-13T14:48:23.166701-04:00",
+  "has_event": false,
+  "event": null,
+  "colors": []
 }
