@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-15T06:56:55.588548-04:00",
+  "generated_at": "2026-10-15T12:25:04.232889-04:00",
   "has_event": true,
   "event": {
-    "start": "2026-10-14T12:00:00-04:00",
-    "end": "2026-10-15T12:00:00-04:00",
-    "purpose": "Blue & Green for Health Equity International"
+    "start": "2026-10-15T12:00:00-04:00",
+    "end": "2026-10-16T12:00:00-04:00",
+    "purpose": "Pink & Blue in support of Teeing off for tiny angels"
   },
   "colors": [
-    "blue",
-    "green"
+    "pink",
+    "blue"
   ]
 }
