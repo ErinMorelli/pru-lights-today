@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-17T11:03:54.509080-04:00",
+  "generated_at": "2026-10-17T16:12:41.082909-04:00",
   "has_event": true,
   "event": {
-    "start": "2026-10-16T12:00:00-04:00",
-    "end": "2026-10-17T12:00:00-04:00",
-    "purpose": "Green & Purple for Project HOPE Boston"
+    "start": "2026-10-17T12:00:00-04:00",
+    "end": "2026-10-18T12:00:00-04:00",
+    "purpose": "Blue & White for 61st Head of the Charles Regatta"
   },
   "colors": [
-    "green",
-    "purple"
+    "blue",
+    "white"
   ]
 }
