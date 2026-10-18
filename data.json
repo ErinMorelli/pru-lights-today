@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-10-18T11:27:50.279860-04:00",
+  "generated_at": "2026-10-18T16:10:27.126082-04:00",
   "has_event": true,
   "event": {
-    "start": "2026-10-17T12:00:00-04:00",
-    "end": "2026-10-18T12:00:00-04:00",
-    "purpose": "Blue & White for 61st Head of the Charles Regatta"
+    "start": "2026-10-18T12:00:00-04:00",
+    "end": "2026-10-19T12:00:00-04:00",
+    "purpose": "Gold for in support of Next Step"
   },
   "colors": [
-    "blue",
-    "white"
+    "gold"
   ]
 }
