@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-10-25T11:38:36.445822-04:00",
-  "has_event": false,
-  "event": null,
-  "colors": []
+  "generated_at": "2026-10-25T16:26:40.697973-04:00",
+  "has_event": true,
+  "event": {
+    "start": "2026-10-25T12:00:00-04:00",
+    "end": "2026-10-26T12:00:00-04:00",
+    "purpose": "Blue & Teal for Spina Bifida Association of New England"
+  },
+  "colors": [
+    "blue",
+    "teal"
+  ]
 }
