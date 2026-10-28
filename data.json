@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-10-28T08:13:12.624900-04:00",
-  "has_event": false,
-  "event": null,
-  "colors": []
+  "generated_at": "2026-10-28T16:05:21.477360-04:00",
+  "has_event": true,
+  "event": {
+    "start": "2026-10-28T12:00:00-04:00",
+    "end": "2026-10-29T12:00:00-04:00",
+    "purpose": "Green & Gold for Food For Free Committee, Inc."
+  },
+  "colors": [
+    "green",
+    "gold"
+  ]
 }
