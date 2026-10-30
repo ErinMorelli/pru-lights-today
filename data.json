@@ -1,13 +1,6 @@
 {
-  "generated_at": "2026-10-30T05:39:52.278637-04:00",
-  "has_event": true,
-  "event": {
-    "start": "2026-10-29T12:00:00-04:00",
-    "end": "2026-10-30T12:00:00-04:00",
-    "purpose": "Pink & White in support of Runway for Recovery"
-  },
-  "colors": [
-    "pink",
-    "white"
-  ]
+  "generated_at": "2026-10-30T13:45:39.738036-04:00",
+  "has_event": false,
+  "event": null,
+  "colors": []
 }
