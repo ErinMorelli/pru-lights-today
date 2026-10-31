@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-31T07:46:06.389168-04:00",
-  "has_event": false,
-  "event": null,
-  "colors": []
+  "generated_at": "2026-10-31T12:54:09.564112-04:00",
+  "has_event": true,
+  "event": {
+    "start": "2026-10-31T12:00:00-04:00",
+    "end": "2026-11-01T12:00:00-05:00",
+    "purpose": "Orange for Halloween"
+  },
+  "colors": [
+    "orange"
+  ]
 }
