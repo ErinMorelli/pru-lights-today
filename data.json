@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-11-19T06:11:40.752449-05:00",
-  "has_event": true,
-  "event": {
-    "start": "2026-11-18T12:00:00-05:00",
-    "end": "2026-11-19T12:00:00-05:00",
-    "purpose": "Green for National Injury Prevention"
-  },
-  "colors": [
-    "green"
-  ]
+  "generated_at": "2026-11-19T15:01:00.060264-05:00",
+  "has_event": false,
+  "event": null,
+  "colors": []
 }
